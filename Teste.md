@@ -5,3 +5,4 @@ Essa e mais uma alteraçao para aprender e a aacostumar a usar o git add
 e depois o git commit -m "qualquer msg aqui"
 primeiro aperto control s pra salvar depois uso o git add ./ nome do arquivo
 
+agora salvando o arquivo    
