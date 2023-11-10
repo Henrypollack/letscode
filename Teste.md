@@ -7,4 +7,4 @@ primeiro aperto control s pra salvar depois uso o git add ./ nome do arquivo
 
 agora salvando o arquivo  
 
-*comando git fat
+*comando git fetch
