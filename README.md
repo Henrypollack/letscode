@@ -7,3 +7,4 @@ letscodecurso
 ## Salvando alterações do Git
 * uso do comando git restore
 *Comando git push
+*comando git pull
